@@ -1,0 +1,40 @@
+E:\PIU\PIU\InchirieriAuto\Interfata\bin\Debug\Interfata.exe.config
+E:\PIU\PIU\InchirieriAuto\Interfata\bin\Debug\Interfata.exe
+E:\PIU\PIU\InchirieriAuto\Interfata\bin\Debug\Interfata.pdb
+E:\PIU\PIU\InchirieriAuto\Interfata\bin\Debug\LibrarieClase.dll
+E:\PIU\PIU\InchirieriAuto\Interfata\bin\Debug\LibrarieClase.pdb
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.AssemblyReference.cache
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.SuggestedBindingRedirects.cache
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.AddAdmin.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.AddClient.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.deleteData.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.modifyAdmin.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.modifyClient.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.AdminInterface.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.LoginInterface.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.GenerateResource.cache
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.CoreCompileInputs.cache
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.CopyComplete
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.exe
+E:\PIU\PIU\InchirieriAuto\Interfata\obj\Debug\Interfata.pdb
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\bin\Debug\Interfata.exe.config
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\bin\Debug\Interfata.exe
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\bin\Debug\Interfata.pdb
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\bin\Debug\LibrarieClase.dll
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\bin\Debug\LibrarieClase.pdb
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.AssemblyReference.cache
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.SuggestedBindingRedirects.cache
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.AddAdmin.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.AddClient.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.deleteData.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.modifyAdmin.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.AdditionalForms.modifyClient.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.AdminInterface.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.LoginInterface.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.GenerateResource.cache
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.CoreCompileInputs.cache
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.csproj.CopyComplete
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.exe
+C:\Users\birgo\OneDrive\Desktop\ProiectPIU       2\InchirieriAuto\Interfata\obj\Debug\Interfata.pdb

@@ -1,0 +1,6 @@
+E:\PIU\PIU\InchirieriAuto\LibrarieClase\bin\Debug\LibrarieClase.dll
+E:\PIU\PIU\InchirieriAuto\LibrarieClase\bin\Debug\LibrarieClase.pdb
+E:\PIU\PIU\InchirieriAuto\LibrarieClase\obj\Debug\LibrarieClase.csproj.AssemblyReference.cache
+E:\PIU\PIU\InchirieriAuto\LibrarieClase\obj\Debug\LibrarieClase.csproj.CoreCompileInputs.cache
+E:\PIU\PIU\InchirieriAuto\LibrarieClase\obj\Debug\LibrarieClase.dll
+E:\PIU\PIU\InchirieriAuto\LibrarieClase\obj\Debug\LibrarieClase.pdb

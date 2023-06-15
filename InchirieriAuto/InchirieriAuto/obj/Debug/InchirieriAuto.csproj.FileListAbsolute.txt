@@ -1,0 +1,11 @@
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\bin\Debug\Piese Auto.exe.config
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\bin\Debug\Piese Auto.exe
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\bin\Debug\Piese Auto.pdb
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\bin\Debug\LibrarieClase.dll
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\bin\Debug\LibrarieClase.pdb
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\obj\Debug\InchirieriAuto.csproj.AssemblyReference.cache
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\obj\Debug\InchirieriAuto.csproj.SuggestedBindingRedirects.cache
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\obj\Debug\InchirieriAuto.csproj.CoreCompileInputs.cache
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\obj\Debug\InchirieriAuto.csproj.CopyComplete
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\obj\Debug\Piese Auto.exe
+E:\PIU\PIU\InchirieriAuto\InchirieriAuto\obj\Debug\Piese Auto.pdb
